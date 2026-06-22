@@ -32,7 +32,7 @@ Sou graduando em **Sistemas para Internet** e estou em busca de elevar meu perfi
 ---
 
 ### 📫 Vamos conversar?
-* 💼 **LinkedIn:** [ygortsfdev](www.linkedin.com/in/ygor-de-tárcio) 
+* 💼 **LinkedIn:** [ygortsfdev](https://www.linkedin.com/in/ygor-de-tárcio) 
 * 📧 **E-mail:** [ygordetarcio@gmail.com](mailto:ygordetarcio@gmail.com) 
 
 
