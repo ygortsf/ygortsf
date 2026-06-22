@@ -2,7 +2,7 @@
 
 
 ### 🚀 Sobre Mim
-Sou graduando em **Sistemas para Internet** e estou em busca de elevar meu perfil profissional de desenvolvedor com foco no Back-end. Atualmente, atuo como **Desenvolvedor de Software na G4F - Soluções Corporativas**, também estou elaborando e desenvolveendo projetos, além de expêriencias acadêmicas que constroem uma visão ampla e sólida sobre qualidade e gestão de produtos.
+Sou graduando em **Sistemas para Internet** e estou em busca de elevar meu perfil profissional de desenvolvedor com foco no Back-end. Atualmente, atuo como **Desenvolvedor de Software na G4F - Soluções Corporativas**, também estou elaborando e desenvolvendo projetos, além de expêriencias acadêmicas que constroem uma visão ampla e sólida sobre qualidade e gestão de produtos.
 
 ---
 
